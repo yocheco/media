@@ -45,7 +45,7 @@
     "rpc-enabled": true,
     "rpc-host-whitelist": "",
     "rpc-host-whitelist-enabled": true,
-    "rpc-password": "123456",
+    "rpc-password": "Docker_is_cool",
     "rpc-port": 9091,
     "rpc-url": "/transmission/",
     "rpc-username": "admin",

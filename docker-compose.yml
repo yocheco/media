@@ -39,7 +39,7 @@ services:
       - 5050:5050
     environment:
       - TORRENT_PLUGIN=transmission
-      - FG_WEBUI_PASSWD=123456
+      - FG_WEBUI_PASSWD=Docker_is_cool
     restart: unless-stopped
     links:
       - transmission
